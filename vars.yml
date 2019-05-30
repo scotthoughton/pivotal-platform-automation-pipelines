@@ -1,0 +1,3 @@
+platform-automation-bucket: https://swhpublicstore.s3.amazonaws.com/
+credhub-server: https://your-credhub.example.com
+opsman-url: https://pcf.foundation.example.com
