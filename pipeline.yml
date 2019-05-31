@@ -11,6 +11,11 @@ resources:
   source:
     product_slug: platform-automation
     api_token: ((pivnet-refresh-token))
+- name: config
+  type: git
+  source:
+    uri: ((pipeline-repo))
+    branch: master
 jobs:
 - name: install-ops-manager
   serial: true
