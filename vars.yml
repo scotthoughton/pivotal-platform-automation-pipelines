@@ -1,3 +1,4 @@
 platform-automation-bucket: https://swhpublicstore.s3.amazonaws.com/
-credhub-server: https://your-credhub.example.com
-opsman-url: https://pcf.foundation.example.com
+credhub-server: https://pcf.googlepcf-cp.swhpractice.com
+opsman-url: https://pcf.googlepcf-cp.swhpractice.com
+pipeline-repo: git@github.com:scotthoughton/pivotal-platform-automation-pipelines
